@@ -1,5 +1,5 @@
 " Map Leader: Reset from \ to ,
-let mapleader = ","
+"let mapleader = ","
 
 " Yank from the cursor to the end of the line, to be consistent with C and D.
 nnoremap Y y$
@@ -19,3 +19,7 @@ nmap <leader>lf :FufFile<CR>
 nmap <leader>lc :FufCoverageFile<CR>
 nmap <leader>lb :FufBuffer<CR>
 nmap <leader>lt :FufTag<CR>
+
+
+nmap <leader>nt :NERDTree<CR>
+nmap <leader>ff :CtrlP<CR>
