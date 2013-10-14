@@ -39,6 +39,8 @@ Bundle 'Shougo/vimproc.vim'
 Bundle 'Shougo/unite.vim'
 " Visual the undo tree
 Bundle 'sjl/gundo.vim'
+Bundle 'thoughtbot/vim-rspec'
+Bundle 'jgdavey/tslime.vim'
 
 " TagBar 
 Bundle 'majutsushi/tagbar'
