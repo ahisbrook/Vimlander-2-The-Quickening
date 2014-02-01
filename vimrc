@@ -6,6 +6,8 @@ source ~/.vim/keybindings.vim
 source ~/.vim/plugin_config.vim
 source ~/.vim/auto_commands.vim
 
+colorscheme railscasts
+
 if filereadable(expand("~/.vim/custom_vimrc"))
   source ~/.vim/custom_vimrc
 endif
